@@ -8,5 +8,5 @@ sin.addEventListener('click',function (){
 })
 
 pow.addEventListener('click', function (){
-    boxResult.value=eval(boxResult.value)+"*"
+    boxResult.value=eval(boxResult.value)+"**"
 })
